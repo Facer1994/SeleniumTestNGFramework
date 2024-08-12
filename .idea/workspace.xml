@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ef66bcc-5235-4325-9c96-18b48fc937b1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/helpers/SeleniumMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pages/CartValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pages/LandingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pages/ValidateProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/resouces/ExtentReporterTestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/resouces/Globaldata.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/site/apt/format.apt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/site/apt/index.apt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/site/fml/faq.fml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/site/fr/apt/format.apt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/site/fr/apt/index.apt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/site/fr/fml/faq.fml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/site/fr/xdoc/xdoc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/site/site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/site/site_fr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/site/xdoc/xdoc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Test/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Test/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Test/LoginandProductpagevalidationII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/data/DataReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/data/testData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testcomponents/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testcomponents/Listeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testcomponents/Retry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/helpers/SeleniumMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pages/CartValidation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pages/LandingPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/pages/ValidateProduct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/resouces/ExtentReporterTestNG.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2024-08-12T17-37-04_040.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2024-08-12T17-57-16_147.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/jquery-3.6.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.Test.LoginandProductpagevalidationII.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/Test/Example.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/Test/LoginandProductpagevalidationII.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/data/DataReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/testcomponents/BaseTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/testcomponents/BaseTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/testcomponents/Listeners.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/testcomponents/Retry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Default suite/Default test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Default suite/Default test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Default suite/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Suite/Test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Suite/Test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Suite/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/jquery-3.6.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.Test.LoginPage.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng2.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2jesmdCt7hO4H5WTx7yCehiZ4Ar" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BaseTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoginPage.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.BaseTest.Testcase.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BaseTest.browserlaunch.executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.BaseTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/Jayarajan/Downloads/proman-backend/TestNG/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.E:/Projects/proman-backend/TestNG/testng2.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginPage (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginPage.browserlaunch.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginPage.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginPage.getlistofproducts.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginandProductpagevalidation.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginandProductpagevalidation.login.executor&quot;: &quot;Run&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Projects/Jayarajan_Projects/RestAssured&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Projects\proman-backend\TestNG" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.testcomponents" />
+      <recent name="com.helpers" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.Test" />
+      <recent name="com.test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Jayarajan/Downloads/proman-backend/TestNG/testng.xml">
+    <configuration name="C:/Users/Jayarajan/Downloads/proman-backend/TestNG/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGAutomationFramework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E:/Projects/proman-backend/TestNG/testng2.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGAutomationFramework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng2.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGAutomationFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.Test.Example" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example.login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGAutomationFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.Test.Example" />
+      <option name="METHOD_NAME" value="login" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Productaddtocart" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGAutomationFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.loginPage" />
+      <option name="MAIN_CLASS_NAME" value="com.Pages.Productaddtocart" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Productaddtocart" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.loginPage" />
+      <option name="MAIN_CLASS_NAME" value="com.Pages.Productaddtocart" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Jayarajan/Downloads/proman-backend/TestNG/testng.xml" />
+        <item itemvalue="TestNG.E:/Projects/proman-backend/TestNG/testng2.xml" />
+        <item itemvalue="TestNG.Example" />
+        <item itemvalue="TestNG.Example.login" />
+        <item itemvalue="TestNG.Productaddtocart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ef66bcc-5235-4325-9c96-18b48fc937b1" name="Changes" comment="" />
+      <created>1721759039946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721759039946</updated>
+    </task>
+    <servers />
+  </component>
+</project>
